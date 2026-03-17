@@ -1,2 +1,2 @@
 # Finance-Project-
-SQL + Tableau
+QUALITY ANALYSIS ON U.S. STOCKS
