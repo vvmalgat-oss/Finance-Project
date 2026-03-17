@@ -1,2 +1,2 @@
-# Finance-Project-
+# Finance Project 
 QUALITY ANALYSIS ON U.S. STOCKS
